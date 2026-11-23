@@ -1,6 +1,6 @@
 # 🟩🟨 Terminal Wordle: A Python Logic Game
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Mayen-Shahriar-Kabir>/<Terminal_Wordle>/blob/main/Terminal_Wordle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mayen-Shahriar-Kabir/Terminal_Wordle/blob/main/Terminal_Wordle.ipynb)
 
 A fully functional, terminal-based clone of the popular game Wordle, built entirely in Python. This project was originally created during my first semester to explore foundational programming concepts and demonstrates how basic logic can be used to build engaging, interactive applications.
 
